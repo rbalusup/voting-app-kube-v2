@@ -1,1 +1,1 @@
-# voting-app-kube
+# voting-app-kube-v2
